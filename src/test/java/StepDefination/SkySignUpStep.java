@@ -30,8 +30,8 @@ public class SkySignUpStep {
 
     }
     @Then("Signup page should be display properly")
-    public void signup_page_should_be_display_properly(String expectedpage) {
-        String actualPage = driver.getPageSource();
+    public void signup_page_should_be_display_properly() {
+
 
 
     }
